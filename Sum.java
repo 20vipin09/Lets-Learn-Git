@@ -8,6 +8,7 @@ public class Sum {
 		int b = 20;
 		int sum = a+b;
 		System.out.println("Sum of two integer values are: "+sum);
+		System.out.println(sum);
 
 	}
 
